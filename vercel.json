@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://lmarena.ai/$1"
+    }
+  ]
+}
